@@ -5,3 +5,4 @@ This module teaches the basics of Python and begins by exploring some of the dif
 - PY0101EN-1-1-Write_your_first_python_code.ipynb
 - PY0101EN-1-2-Strings.ipynb
 - PY0101EN-2-2-Lists.ipynb
+- PY0101EN-2-3-Dictionaries.ipynb
