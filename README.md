@@ -7,3 +7,4 @@ This module teaches the basics of Python and begins by exploring some of the dif
 - PY0101EN-2-2-Lists.ipynb
 - PY0101EN-2-3-Dictionaries.ipynb
 - PY0101EN-2-4-Sets.ipynb
+- PY0101EN-3-1-Conditions.ipynb
