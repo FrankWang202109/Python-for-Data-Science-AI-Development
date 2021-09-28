@@ -15,3 +15,4 @@ This module begins a journey into Python data structures by explaining the use o
 This module discusses Python fundamentals and begins with the concepts of conditions and branching. Continue through the module and learn how to implement loops to iterate over sequences, create functions to perform a specific task, perform exception handling to catch errors, and how classes are needed to create objects.
 - PY0101EN-3-1-Conditions.ipynb
 - PY0101EN-3-2-Loops.ipynb
+- PY0101EN-3-3-Functions.ipynb
