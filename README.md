@@ -16,3 +16,4 @@ This module discusses Python fundamentals and begins with the concepts of condit
 - PY0101EN-3-1-Conditions.ipynb
 - PY0101EN-3-2-Loops.ipynb
 - PY0101EN-3-3-Functions.ipynb
+- 3-1.2ExcecptionHandling.ipynb
