@@ -24,3 +24,4 @@ This module explains the basics of working with data in Python and begins the pa
 - PY0101EN-4-1-ReadFile.ipynb
 - PY0101EN-4-2-WriteFile.ipynb
 - PY0101EN-5-1-Numpy1D.ipynb
+- PY0101EN-5-2-Numpy2D.ipynb
