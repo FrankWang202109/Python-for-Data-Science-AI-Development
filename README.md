@@ -22,3 +22,4 @@ This module discusses Python fundamentals and begins with the concepts of condit
 ## Working with Data in Python
 This module explains the basics of working with data in Python and begins the path with learning how to read and write files. Continue the module and uncover the best Python libraries that will aid in data manipulation and mathematical operations.
 - PY0101EN-4-1-ReadFile.ipynb
+- PY0101EN-4-2-WriteFile.ipynb
