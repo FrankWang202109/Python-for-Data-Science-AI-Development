@@ -25,3 +25,7 @@ This module explains the basics of working with data in Python and begins the pa
 - PY0101EN-4-2-WriteFile.ipynb
 - PY0101EN-5-1-Numpy1D.ipynb
 - PY0101EN-5-2-Numpy2D.ipynb
+
+## APIs, and Data Collection
+This module delves into the unique ways to collect data by the use of APIs and webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
+- WebScraping_Review_Lab
